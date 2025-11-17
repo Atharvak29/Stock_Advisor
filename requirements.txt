@@ -1,9 +1,10 @@
 ﻿streamlit==1.38.0
 yfinance==0.2.66
 pandas==2.2.2
-numpy==1.26.4
+numpy==2.0.2
 plotly==5.11.0
 requests==2.32.5
 groq==0.34.1
 scikit-learn==1.6.1
+
 
